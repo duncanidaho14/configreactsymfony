@@ -1,0 +1,14 @@
+@import 'materialize.scss';
+
+body {
+    background-color: rgb(249, 249, 249);
+    color: red;
+}
+
+input {
+    .searchText {
+        color: #000;
+        background-color: red;
+        padding-left: 50px;
+    }
+}
